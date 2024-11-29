@@ -40,10 +40,10 @@ RTBH sensörlerini barındıran kuruluşlar şu faydaları elde eder:
 
 RTBH BGP sunucusu, Docker Hub'da barındırılmaktadır ve kolayca aktif edilebilir:
 
-\`
+```
 docker pull alptekinsunnetci/rtbh:istanbul
 docker run -d --restart unless-stopped -p 179:179 alptekinsunnetci/rtbh:istanbul
-\`
+```
 
 ## Etkileyici Sonuçlar
 
