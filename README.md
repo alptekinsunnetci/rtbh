@@ -1,10 +1,10 @@
-# Siber Güvenlikte Yeni Standart: RTBH
+# Siber Güvenlikte Yeni Standart: [RTBH](http://rtbh.com.tr)
 
 ## DDoS Saldırılarına Karşı Etkili Koruma
 
 Günümüzün en büyük siber tehditlerinden biri olan Dağıtık Hizmet Reddi (DDoS) saldırıları, şirketlerin operasyonlarını kesintiye uğratabilir ve ağ güvenliğini ciddi şekilde riske atabilir. Avrupa Ağ ve Bilgi Güvenliği Ajansı (ENISA), siber saldırıları küresel ekonomiyi tehdit eden en büyük 5 riskten biri olarak tanımlıyor. 2024 yılı sonuna kadar bu saldırıların ekonomik etkisinin 9,5 trilyon Amerikan dolarına ulaşması bekleniyor.
 
-RTBH (Remote Triggered Black Hole), bu saldırılara karşı geliştirilen yenilikçi bir savunma mekanizmasıdır. Bu teknoloji, kötü niyetli IP adreslerini tespit ederek, ağınızı bu tehditlerden izole eder ve güvenli bir ağ ortamı sağlar.
+[RTBH](http://rtbh.com.tr) (Remote Triggered Black Hole), bu saldırılara karşı geliştirilen yenilikçi bir savunma mekanizmasıdır. Bu teknoloji, kötü niyetli IP adreslerini tespit ederek, ağınızı bu tehditlerden izole eder ve güvenli bir ağ ortamı sağlar.
 
 ## RTBH: Nasıl Çalışır?
 
@@ -14,9 +14,9 @@ RTBH, BGP (Border Gateway Protocol) üzerinden çalışır ve kötü niyetli IP 
 ✔ Hedeflenmiş Engelleme: Zararlı trafiği filtreler.  
 ✔ Performans Koruması: Normal trafiği kesintiye uğratmaz.
 
-## rtbh.com.tr
+## [RTBH.com.tr](http://rtbh.com.tr)
 
-### RTBH.com.tr ile Güvenliğinizi Artırın
+### [RTBH.com.tr](http://rtbh.com.tr) ile Güvenliğinizi Artırın
 
 RTBH.com.tr, topluluk tarafından desteklenen 50'den fazla sensörden oluşan bir ağı yönetmektedir. Bu ağ, aşağıdaki tehdit türlerini tespit edebilmektedir:
 
