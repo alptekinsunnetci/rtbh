@@ -18,7 +18,7 @@ RTBH, BGP (Border Gateway Protocol) üzerinden çalışır ve kötü niyetli IP 
 
 ### [RTBH.com.tr](http://rtbh.com.tr) ile Güvenliğinizi Artırın
 
-RTBH.com.tr, topluluk tarafından desteklenen 50'den fazla sensörden oluşan bir ağı yönetmektedir. Bu ağ, aşağıdaki tehdit türlerini tespit edebilmektedir:
+[RTBH.com.tr](http://rtbh.com.tr), topluluk tarafından desteklenen 50'den fazla sensörden oluşan bir ağı yönetmektedir. Bu ağ, aşağıdaki tehdit türlerini tespit edebilmektedir:
 
 - Çok Noktaya Yapılan DDoS Saldırıları
 - Sıfır Gün Saldırıları
@@ -26,19 +26,19 @@ RTBH.com.tr, topluluk tarafından desteklenen 50'den fazla sensörden oluşan bi
 - Fidye Yazılımları
 - Port Tarayıcıları
 
-Toplanan veriler, list.rtbh.com.tr üzerinde derlenerek, ağ güvenliğini artırmak için kullanılabilir.
+Toplanan veriler, [list.RTBH.com.tr](http://list.rtbh.com.tr) üzerinde derlenerek, ağ güvenliğini artırmak için kullanılabilir.
 
 ### Sensor Sponsorlarının Avantajları
 
-RTBH sensörlerini barındıran kuruluşlar şu faydaları elde eder:
+[RTBH](http://rtbh.com.tr) sensörlerini barındıran kuruluşlar şu faydaları elde eder:
 
 - **Gerçek Zamanlı İzleme:** Zararlı trafiği anında tespit etme.
 - **Detaylı Raporlama:** Ağ güvenliği hakkında kapsamlı bilgiye erişim.
 - **Artan Güvenlik:** Proaktif tehdit önleme mekanizmaları.
 
-## RTBH BGP Sunucusu: Kolay Kurulum
+## [RTBH](http://rtbh.com.tr) BGP Sunucusu: Kolay Kurulum
 
-RTBH BGP sunucusu, Docker Hub'da barındırılmaktadır ve kolayca aktif edilebilir:
+[RTBH](http://rtbh.com.tr) BGP sunucusu, Docker Hub'da barındırılmaktadır ve kolayca aktif edilebilir:
 
 ```
 docker pull alptekinsunnetci/rtbh:istanbul
@@ -47,7 +47,7 @@ docker run -d --restart unless-stopped -p 179:179 alptekinsunnetci/rtbh:istanbul
 
 ## Etkileyici Sonuçlar
 
-RTBH.com.tr, 2024 yılı itibarıyla 2.000.000'den fazla zararlı IPv4 adresi tespit etmiştir. Bu başarı, sistemin proaktif savunma kapasitesinin bir göstergesidir.
+[RTBH.com.tr](http://rtbh.com.tr), 2024 yılı itibarıyla 2.000.000'den fazla zararlı IPv4 adresi tespit etmiştir. Bu başarı, sistemin proaktif savunma kapasitesinin bir göstergesidir.
 
 En çok hedef alınan portlar arasında:
 - 23
@@ -60,9 +60,9 @@ En çok hedef alınan portlar arasında:
 
 IP adresinizi manuel bir başvuru yoluyla listeden çıkarmanız mümkün değildir. Ancak, 7 gün boyunca zararlı faaliyet göstermediğiniz takdirde, sistem IP adresinizi otomatik olarak listeden kaldıracaktır. Bununla birlikte, geçmişe dönük ihlalleriniz arşivlenmeye devam edecek ve bu veriler gelecekteki analizler için kullanılacaktır.
 
-## RTBH.com.tr Servisi Lisans Koşulları
+## [RTBH.com.tr](http://rtbh.com.tr) Servisi Lisans Koşulları
 
-RTBH.com.tr servisi, kişisel kullanıcılar, kurumlar ve kuruluşlar tarafından ücretsiz olarak kullanılabilir. Kullanıcılar, servisin sunduğu hizmetlerden herhangi bir ücret ödemeden faydalanabilirler.
+[RTBH.com.tr](http://rtbh.com.tr) servisi, kişisel kullanıcılar, kurumlar ve kuruluşlar tarafından ücretsiz olarak kullanılabilir. Kullanıcılar, servisin sunduğu hizmetlerden herhangi bir ücret ödemeden faydalanabilirler.
 
 Ancak, servisten elde edilen verilerin doğrudan veya alternatif bir ürün üzerinden ticari amaçlarla satılması yasaktır. Verilerin ticari kullanımına yönelik herhangi bir işlem yapabilmek için önceden izin alınması gerekmektedir.
 
